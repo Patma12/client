@@ -17,9 +17,9 @@ function Home() {
       setList([
         {
           "storeId":1,
-          "storeTitle": "ร้านขายรถของเล่น",
-          "storeSubDescription": "ของรถคุณภาพดี เหมือนจริง เปิดประตูได้ทุกคัน",
-          "storeCardImage": "https://fr.lnwfile.com/_/fr/_raw/d0/as/jw.jpg"
+          "storeTitle": "ลายบล็อกสี ของเล่นกดบับเบิ้ล กระเป๋ารูปสัตว์",
+          "storeSubDescription": "ลายบล็อกสี ของเล่นกดบับเบิ้ล กระเป๋ารูปสัตว์",
+          "storeCardImage": "https://img.ltwebstatic.com/images3_pi/2021/10/25/16351441424940692ac58b17bafec6ebbb3b824e55_thumbnail_900x.webp"
         },
         {
           "storeId":2,
